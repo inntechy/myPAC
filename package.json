@@ -1,0 +1,12 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "pac服务",
+  "main": "server.js",
+  "repository": "git@github.com:inntechy/myPAC.git",
+  "author": "inntechy",
+  "license": "MIT",
+  "dependencies": {
+    "koa": "^2.13.4"
+  }
+}
